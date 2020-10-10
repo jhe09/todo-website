@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+}
+
+li {
+    background-color: orange;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.wrapper{
+    display: flex;
+    justify-content: center;
+
+}
